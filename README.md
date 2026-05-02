@@ -32,7 +32,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,html,css,js,nodejs,mysql,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,html,css,js,nodejs,mysql,arduino,git,github" />
 </p>
 
 <hr>
