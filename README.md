@@ -37,16 +37,6 @@
 
 <hr>
 
-## Stats
-
-<br>
-
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=MauricioGM1807&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Mauricio's Streak" />
-</div>
-
-<hr>
-
 ## My Contributions
 
 <div align="center">
